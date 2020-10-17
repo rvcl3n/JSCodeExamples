@@ -10,3 +10,6 @@
 //the same as
 //b = 3;
 //var a = b;
+
+console.log(0.1 + 0.2);
+console.log(0.1 + 0.2 == 0.3);
